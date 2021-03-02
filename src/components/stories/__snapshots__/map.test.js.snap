@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Address list should render correctly 1`] = `
+<div
+  className="sc-bdfBwQ cDyRiz"
+>
+  <div
+    className="sc-gsTCUz gbCiAz"
+  />
+</div>
+`;

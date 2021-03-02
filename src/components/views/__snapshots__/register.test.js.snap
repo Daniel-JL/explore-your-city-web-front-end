@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Register page should render correctly 1`] = `
+<div
+  className="sc-pFZIQ cPKlFN"
+>
+  <h1
+    className="sc-crrsfI imaEaq"
+  >
+    Register
+  </h1>
+  <div
+    className="sc-jrAGrp hUEthe"
+  >
+    <div
+      className="sc-kEjbxe sc-iqHYGH whvJx dgHtcJ"
+    >
+      <input
+        className="sc-bdfBwQ fdZBNX"
+        id="first_name"
+        name="first_name"
+        placeholder="First Name"
+        type="first_name"
+      />
+      <input
+        className="sc-bdfBwQ fdZBNX"
+        id="last_name"
+        name="last_name"
+        placeholder="Last Name"
+        type="last_name"
+      />
+    </div>
+    <div
+      className="sc-kEjbxe whvJx"
+    >
+      <input
+        className="sc-bdfBwQ fdZBNX"
+        id="e-mail"
+        name="e-mail"
+        placeholder="Enter E-Mail"
+        type="e-mail"
+      />
+      <input
+        className="sc-bdfBwQ fdZBNX"
+        id="password"
+        name="password"
+        placeholder="Enter Password"
+        type="password"
+      />
+      <input
+        className="sc-bdfBwQ fdZBNX"
+        id="confirm_password"
+        name="confirm_password"
+        placeholder="Confirm Password"
+        type="confirm_password"
+      />
+    </div>
+  </div>
+  <a
+    aria-current={null}
+    href="/contribute"
+    onClick={[Function]}
+  >
+    <button
+      className="sc-gsTCUz sc-eCssSg hbelWT ciBFzU"
+    >
+      Submit
+    </button>
+  </a>
+</div>
+`;

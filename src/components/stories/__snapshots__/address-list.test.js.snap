@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Address list should render correctly 1`] = `
+<div
+  className="sc-iqHYGH cKzOnl"
+  id="address-list-container"
+>
+  <div
+    className="sc-crrsfI guTUDm"
+  >
+    <div
+      className="sc-dQppl cloVXP"
+      id="geocoder-container"
+    />
+    <br />
+    <textarea
+      aria-label="address-list-text-area"
+      className="sc-bqyKva sc-kstrdz jcGnXb doyoYq"
+      id="address-list-text-area"
+      placeholder="Enter location story here"
+    />
+    <button
+      aria-label="add-location-button"
+      className="sc-gsTCUz sc-jSgupP cSBAHy YYYpt"
+      id="add-location-button"
+      onClick={[Function]}
+    >
+      +
+    </button>
+  </div>
+  <div
+    className="sc-fubCfw jkwkKq"
+  >
+    <div
+      className="sc-pFZIQ fZtmim"
+    >
+      <button
+        aria-label="left-arrow"
+        className="sc-bdfBwQ dDwjPX"
+        onClick={[Function]}
+      >
+        Left
+      </button>
+      <button
+        aria-label="right-arrow"
+        className="sc-bdfBwQ dDwjPX"
+        onClick={[Function]}
+      >
+        Right
+      </button>
+      <button
+        aria-label="trash-button"
+        className="sc-bdfBwQ sc-dlfnbm dDwjPX jGyOBP"
+        id="trash-button"
+        onClick={[Function]}
+      >
+        Trash
+      </button>
+      <button
+        aria-label="hide-text-button"
+        className="sc-bdfBwQ dDwjPX"
+        id="hide-text-button"
+        onClick={[Function]}
+      >
+        Hide/Show Text
+      </button>
+    </div>
+    <input
+      aria-label="address-field"
+      className="sc-jrAGrp eUrxvH"
+      id="address-field"
+      name="address-field"
+      readOnly={true}
+      type="text"
+      value=""
+    />
+    <textarea
+      aria-label="location-story"
+      className="sc-kEjbxe clHPVE"
+      id="location-story"
+      readOnly={true}
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      value=""
+    />
+  </div>
+</div>
+`;

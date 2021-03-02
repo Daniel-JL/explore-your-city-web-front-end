@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contribution page should render correctly 1`] = `
+<div
+  className="sc-fubCfw jkgfuu"
+>
+  <div
+    className="sc-pFZIQ fzjIby"
+  >
+    <div
+      className="sc-jrAGrp kuRXtY"
+    >
+      <img
+        className="sc-kEjbxe bdzfem"
+      />
+    </div>
+    <div
+      className="sc-iqHYGH bdPUrq"
+    >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam congue tortor eu consequat faucibus. Cras scelerisque elit magna, a aliquet massa consectetur et. Sed in nisl a lorem fermentum ullamcorper in et diam. Phasellus vitae vulputate felis. Suspendisse efficitur, ligula at semper ornare, elit nisl euismod enim, eget maximus augue felis non quam. Donec dictum nibh vitae magna scelerisque, ac aliquam ipsum consectetur. Donec et tellus nec tellus scelerisque posuere sagittis vel nisi. Proin quis pretium urna, eu laoreet nibh. Maecenas nec vestibulum lectus. Fusce aliquet nec erat ut ullamcorper. Vestibulum consectetur tincidunt dapibus.
+    </div>
+  </div>
+  <div
+    className="sc-pFZIQ fzjIby"
+  >
+    <div
+      className="sc-iqHYGH bdPUrq"
+    >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam congue tortor eu consequat faucibus. Cras scelerisque elit magna, a aliquet massa consectetur et. Sed in nisl a lorem fermentum ullamcorper in et diam. Phasellus vitae vulputate felis. Suspendisse efficitur, ligula at semper ornare, elit nisl euismod enim, eget maximus augue felis non quam. Donec dictum nibh vitae magna scelerisque, ac aliquam ipsum consectetur. Donec et tellus nec tellus scelerisque posuere sagittis vel nisi. Proin quis pretium urna, eu laoreet nibh. Maecenas nec vestibulum lectus. Fusce aliquet nec erat ut ullamcorper. Vestibulum consectetur tincidunt dapibus.
+    </div>
+    <div
+      className="sc-jrAGrp kuRXtY"
+    >
+      <img
+        className="sc-kEjbxe bdzfem"
+      />
+    </div>
+  </div>
+  <a
+    aria-current={null}
+    href="/register"
+    onClick={[Function]}
+  >
+    <button
+      className="sc-bdfBwQ sc-iBPRYJ dDwjPX RzFWu"
+    >
+      Tell your own Story
+    </button>
+  </a>
+</div>
+`;
