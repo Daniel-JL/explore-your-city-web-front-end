@@ -9,7 +9,8 @@ import listIsEmpty from '../../helpers/listIsEmpty';
 import itemAddedToMapPointList from '../../helpers/itemAddedToMapPointList';
 import itemRemovedFromMapPointList from '../../helpers/itemRemovedFromMapPointList';
 
-mapboxgl.accessToken = 'pk.eyJ1IjoiZGFuamwiLCJhIjoiY2toMzkxZXBwMDhpdDJzb2V4Mnh6ZXhzdiJ9.YNxQn_XBag2z8ZZUXTKAmQ';
+mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_API_KEY;
+console.log(process.env.REACT_APP_MAPBOX_API_KEY);
 
 const MapAndDivContainer = styled.div`
   height: 100%;
